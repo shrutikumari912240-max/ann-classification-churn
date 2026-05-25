@@ -1,6 +1,4 @@
-venv/
-tfenv/
-myenv/
-freshenv/
-virtual_env/
+freshnev/
 __pycache__/
+*.pyc
+.env
